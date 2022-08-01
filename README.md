@@ -1,7 +1,7 @@
 Multidimensional Knapsack Problem with unknown capacity (MKPuC)
 
 In this python repostitory we present a solution algorithm for the MKPuC.
-You can run different tipes of figures (universal.py), to see a comparison between our solution and the optimum for random examples or own examples.
+You can run different tipes of figures (Universal.py), to see a comparison between our solution and the optimum for random examples or own examples.
 
 The numpy package and time package are mandatory.
 
